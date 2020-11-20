@@ -23,4 +23,8 @@ Resolución de conflictos
 
 Entrega la URL del repositorio.
 
+
 versión modificada en github Desktop
+
+versión modificada en github.com v2
+
