@@ -1,0 +1,24 @@
+Creación repositorio
+* Crea un nuevo repositorio público en Github Desktop llamado Github_NombreApellido_Clase. Por ejemplo: Github_DaniGomez_2D
+* Inicialízalo con un Readme.md
+* Elige un tipo de Licencia y el contenido del archivo .gitignore
+
+Realizar cambios
+* Accede a la carpeta local del repositorio y crea las siguientes carpetas:
+               * Images: Añade 3 imágenes en jpg o png. *
+               * Audio: Añade un clip de audio en mp3 o similar. *
+               * Text: Crea un archivo de texto y escribe algo dentro.
+* Realiza un Commit de los cambios y haz un Push al servidor.
+
+Creación de ramas
+* Crea una nueva Branch llamada Develop.
+* En la rama Develop sustituye las 3 imágenes por otras 3 imágenes distintas.
+* Cambia entre ramas y observa qué sucede en las carpetas del proyecto.
+
+Resolución de conflictos
+* En Github.com, modifica el contenido del archivo de texto que creaste anteriormente y confirma los cambios.
+* En el repositorio local, modifica el contenido del archivo de texto anterior.
+* Realiza un Commit de los cambios y posteriormente un Push.
+* Resuelve el conflicto unificando el contenido de las dos versiones del archivo. Posteriormente realiza el commit del Merge de los dos commits anteriores.
+
+Entrega la URL del repositorio.
