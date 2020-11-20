@@ -22,3 +22,5 @@ Resolución de conflictos
 * Resuelve el conflicto unificando el contenido de las dos versiones del archivo. Posteriormente realiza el commit del Merge de los dos commits anteriores.
 
 Entrega la URL del repositorio.
+
+versión modificada en github desktop
